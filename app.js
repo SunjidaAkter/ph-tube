@@ -165,7 +165,7 @@ const showVideos = (videos) => {
         <div class="flex gap-2  mt-2 mb-2 items-center">
           <p class="text-sm text-heroText">${video?.authors[0].profile_name}</p>
          ${video?.authors[0].verified
-        ? '<img src="svgs/verified.svg" alt="" />'
+        ? '<img src="./src/fi_10629607.png" alt="" />'
         : ""
       }
         </div>
